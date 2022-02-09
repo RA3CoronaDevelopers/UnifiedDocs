@@ -5,15 +5,15 @@
 # Site
 title: 日冕统一文档
 subtitle: Corona Unified Docs
-description:
+description: ''
 keywords:
-author: Corona Developers
+author: 日冕开发组
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ra3coronadevelopers.github.io/UnifiedDocs/
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,11 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: https://ra3coronadevelopers.github.io/UnifiedDocs/
-  branch: main
+  type: ''
