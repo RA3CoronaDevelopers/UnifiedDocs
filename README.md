@@ -1,3 +1,3 @@
 <p align="center">
-  <p>日冕统一文档 | Corona Unified Docs</p>
+  <a>日冕统一文档</a> | <a>Corona Unified Docs</a>
 </p>
