@@ -1,0 +1,185 @@
+{
+  "header": {
+    "timeline": {
+      "label": "国史院",
+      "description": "纵览日冕发展历史的时间轴"
+    },
+    "resource": {
+      "label": "厚生库",
+      "description": "下载以获取日冕及相关游戏资源的资源仓库"
+    },
+    "wiki": {
+      "label": "昭文馆",
+      "description": "具有详尽资料的图书馆，储藏了大量日冕相关的第一手材料"
+    },
+    "feedback": {
+      "label": "大理院",
+      "description": "解决游戏安装问题，查询基础玩法问题，反馈游戏漏洞或提供发展意见"
+    }
+  },
+  "footer": {
+    "disclaimer": [
+      "本站与由本站发布的日冕 Mod 作品，均与美国艺电公司没有从属关系"
+    ]
+  },
+  "overview": {
+    "topVideoFrameSrc": "https://player.bilibili.com/player.html?aid=59718588&bvid=BV14t41137qU&cid=104444437&page=1&high_quality=1&danmaku=0",
+    "scrollPictureView": [
+      {
+        "bg": "/news1.png",
+        "target": "https://www.bilibili.com/video/BV1SE411w7Cq"
+      },
+      {
+        "bg": "/news2.png",
+        "target": "https://www.bilibili.com/video/BV1JE411M72x"
+      },
+      {
+        "bg": "/news3.png",
+        "target": "https://www.bilibili.com/video/BV1Yy4y1q7fa"
+      }
+    ],
+    "overheadTitle": ["欢迎回来", "指挥官"],
+    "overheadLinkToResource": "加入战斗",
+    "introductionTitle": "何谓“日冕”？",
+    "introductionContent": [
+      "日冕模组是《命令与征服：红色警戒3》的一款游戏模组，于2017年开始开发，目前仍处于积极维护的状态。"
+    ],
+    "shareTitle": "欢迎关注",
+    "shareSubtitle": "日冕官网尚在积极开发中，未来官网将逐步上线更多模块，请拭目以待"
+  },
+  "timeline": {
+    "content": [
+      {
+        "time": "2019-12-29",
+        "title": "开发日志——空战体系调整",
+        "headImage": "/tl2019122901head.jpg",
+        "link": "https://mp.weixin.qq.com/s/eMc9tYaSW00o8LBRNXOf7A",
+        "introduction": "我们改写了原有的空战体系，这些改动将突出空军不同种类单位之间的克制关系，同时也让空军扮演更重要的角色。"
+      },
+      {
+        "time": "2019-12-08",
+        "title": "开发日志——科技框架调整",
+        "headImage": "/tl2019120801head.jpg",
+        "link": "https://mp.weixin.qq.com/s/eMc9tYaSW00o8LBRNXOf7A",
+        "introduction": "我们将为游戏加入完整的四个等级的科技体系。"
+      },
+      {
+        "time": "2020-05-30",
+        "title": "开发杂谈——壹",
+        "headImage": "/tl2020053001head.jpg",
+        "link": "https://www.bilibili.com/video/BV1AT4y1g7UE/",
+        "introduction": "本次杂谈主要展示了神州的终极武器“浴日神坛”，充能完成后可以向战场任意位置发射日冕风暴，造成聚变打击。"
+      },
+      {
+        "time": "2020-07-31",
+        "title": "开发杂谈——贰",
+        "headImage": "/tl2020073101head.jpg",
+        "link": "https://www.bilibili.com/video/BV1Da4y1E7iQ/",
+        "introduction": "本次杂谈主要展示了针对神州海军单位的平衡调整，并详细讲解了各阵营T3级别与T4级别海军单位的设计理念。"
+      },
+      {
+        "time": "2020-09-03",
+        "title": "开发杂谈——叁",
+        "headImage": "/tl2020090301head.jpg",
+        "link": "https://www.bilibili.com/video/BV1Ui4y1M77A/",
+        "introduction": "本次杂谈主要展示了神州阵营的新战斗界面，并系统介绍了神州单位“破军金甲”与“军部司械”。"
+      },
+      {
+        "time": "2020-10-07",
+        "title": "开发杂谈——肆",
+        "headImage": "/tl2020100701head.jpg",
+        "link": "https://www.bilibili.com/video/BV1H54y1k7i5/",
+        "introduction": "本次杂谈主要系统介绍了苏联单位“犀牛坦克”、“重锤突击炮”与神州单位“迅雷天罡”。"
+      },
+      {
+        "time": "2020-12-30",
+        "title": "开发杂谈——伍",
+        "headImage": "/tl2020123001head.jpg",
+        "link": "https://www.bilibili.com/video/BV1ez4y1r7jt/",
+        "introduction": "本次杂谈主要展示了新的神州中立建筑素材，并展示了一些不实装至常规遭遇战的战役特殊兵种，系统介绍了神州单位“玄武级攻击潜艇”。"
+      },
+      {
+        "time": "2021-08-12",
+        "title": "开发杂谈——陆（上）",
+        "headImage": "/tl2021081201head.jpg",
+        "link": "https://www.bilibili.com/video/BV1GL411J7EF/",
+        "introduction": "本次杂谈主要展示了优化后的天空盒、阴影与海水漫反射特效，并系统介绍了神州单位“岚影刺”。"
+      },
+      {
+        "time": "2021-10-10",
+        "title": "开发杂谈——陆（下）",
+        "headImage": "/tl2021101001head.jpg",
+        "link": "https://www.bilibili.com/video/BV1J34y1S7EB/",
+        "introduction": "本次杂谈主要展示了实装的PBR渲染技术，并由此完全重新设计了升阳帝国单位“鬼王”的模型，详细讲解了游戏引擎中武器系统的设计理念。"
+      }
+    ],
+    "hrefButton": "查阅详情"
+  },
+  "resource": {
+    "launcherDownloadTitle": "日冕客户端",
+    "launcherDownloadContent": [
+      "提供一站式的模组下载与加载服务。",
+      "游玩前，您需要先获取《命令与征服：红色警戒3》的游戏本体。请使用迅雷或可解析磁力链接的下载工具获取游戏。",
+      "更多疑难解答，请在日冕的官方讨论组获得更多信息。"
+    ],
+    "packageDownloadTitle": "日冕客户端——量子打包形态",
+    "packageDownloadContent": [
+      "将日冕客户端与日冕模组本身打包在一起的核心。",
+      "如果您在在线下载文件时遇到问题，可以尝试使用此核心。",
+      "工部现正研发用于离线安装的新技术，故该下载选项将暂不可用。"
+    ],
+    "alertToMobile": [
+      "请在电脑打开本页面以下载游戏",
+      "此游戏是一个PC游戏，无法在手机上游玩"
+    ]
+  },
+  "wiki": {
+    "title": "日冕资料库尚在准备中，敬请期待"
+  },
+  "feedback": {
+    "title": "常见问题解答",
+    "questions": [
+      {
+        "question": "《命令与征服：红色警戒3》是什么游戏？",
+        "answer": "《命令与征服：红色警戒3》是一款由美国艺电公司于 2008 年发行的即时战略类游戏。玩家在战场中担任战场指挥官，控制一支自己的军队，建造战争工事，发展经济，部署兵力，并最终获得胜利。"
+      },
+      {
+        "question": "什么是《日冕》MOD？",
+        "answer": "《日冕》模组是由中国电子游戏爱好者主创的一款扩展模组，适用于由美国艺电公司发行的游戏《命令与征服：红色警戒3》。本模组除了对原有游戏内容的优化调整外，还加入了新架空阵营——“神州”，将中国传统文化元素和炫酷的高科技武器融合，颇具中国风范。同时游戏原有阵营也将拥有各种炫酷的新单位供玩家使用。"
+      },
+      {
+        "question": "在安装模组前，我需要做哪些准备？",
+        "answer": "您需要先在计算机中安装原版《命令与征服：红色警戒3》，并更新至官方1.12版本。"
+      },
+      {
+        "question": "我安装的是《红色警戒3：起义时刻》，可以玩《日冕》吗？",
+        "answer": "不可以，《起义时刻》是《命令与征服：红色警戒3》的官方资料片，但不能安装扩展模组，您需要保证您安装的《命令与征服：红色警戒3》中没有出现“百合子战役、未来科技公司剧情、超级要塞”等元素。"
+      },
+      {
+        "question": "我能在什么样的设备游玩？",
+        "answer": "《日冕》模组只能在安装了 Windows NT 系列操作系统的 64 位计算机运行。我们提供的专用启动器“日冕客户端”目前兼容 Windows7 SP1 至 Windows 11 最新版本的所有操作系统。"
+      },
+      {
+        "question": "玩《日冕》需要花钱吗？",
+        "answer": "不需要，《日冕》模组承诺永久免费提供给所有玩家，但我们也欢迎玩家自愿捐助日冕制作组。"
+      },
+      {
+        "question": "《日冕》可以用手机玩吗？",
+        "answer": "很抱歉，《红色警戒3：日冕》只能在 PC 平台游玩。"
+      },
+      {
+        "question": "我能在《日冕》中玩到新战役吗？",
+        "answer": "暂时不能，新的剧情战役将在后续的版本中更新，敬请期待。"
+      }
+    ],
+    "linkToQuestionnaireWarningTitle": "反馈须知",
+    "linkToQuestionnaireWarningContent": [
+      "日冕MOD暂未开始战役内容的调整与设计，目前的重心仍然在遭遇战游戏模式上，因使用日冕Mod打原版战役而产生的问题，或因自制地图、使用修改器而产生的BUG请勿提交。"
+    ],
+    "linkToQuestionnaireAccept": "我已知晓，继续反馈",
+    "linkToQuestionnaire": "反馈问题"
+  },
+  "oops": {
+    "title": "该区域已被泰伯利亚污染"
+  }
+}
