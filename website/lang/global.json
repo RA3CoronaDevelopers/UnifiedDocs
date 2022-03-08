@@ -19,7 +19,7 @@
     }
   },
   "links": {
-    "releaseLauncherTorrent": "magnet:?xt=urn:btih:WMXPRGF4VJH2CEBD7DRAC7CX6EXMPIHR&dn=CoronaLauncher_Setup_3.1.8040.38698.exe&tr=http%3A%2F%2Ft.nyaatracker.com%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%2Fannounce&tr=http%3A%2F%2Ftrackme.theom.nz%2Fannounce&xl=76669910",
+    "releaseLauncherTorrent": "magnet:?xt=urn:btih:050f75c3e2fd38966dd23483ba8d21763369df5e&dn=CoronaLauncher%5FSetup%5F3.2.8100.41762.exe&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Flauncher%2F",
     "feedbackLink": "https://shimo.im/forms/3DWpxPwxh3tRvghr/fill?channel=launcher"
   },
   "recordInformation": [
