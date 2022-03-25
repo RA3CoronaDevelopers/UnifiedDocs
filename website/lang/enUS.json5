@@ -23,6 +23,7 @@
     ]
   },
   overview: {
+    topVideoSrc: 'https://www.youtube.com/watch?v=Wq7l2Zd-hwY',
     topVideoFrameSrc: 'https://www.youtube.com/embed/Wq7l2Zd-hwY',
     scrollPictureView: [
       {

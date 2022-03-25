@@ -21,6 +21,7 @@
     disclaimer: ['本站与由本站发布的日冕 Mod 作品，均与美国艺电公司没有从属关系']
   },
   overview: {
+    topVideoSrc: 'https://www.bilibili.com/video/BV14t41137qU',
     topVideoFrameSrc: 'https://player.bilibili.com/player.html?aid=59718588&bvid=BV14t41137qU&cid=104444437&page=1&high_quality=1&danmaku=0',
     scrollPictureView: [
       {
