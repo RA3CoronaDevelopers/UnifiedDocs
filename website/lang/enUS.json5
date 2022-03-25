@@ -44,6 +44,7 @@
     introductionContent: [
       "Corona is the mod of 'Command and Conquer: Red Alert 3'. It began development in 2017, and is still under active maintenance."
     ],
+    introductionOpenVideoPage: 'Learn more',
     shareTitle: 'Follow us',
     shareSubtitle: "The website is still developing. We'll push more features in the future."
   },

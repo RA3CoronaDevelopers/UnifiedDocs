@@ -42,6 +42,7 @@
     introductionContent: [
       '日冕模组是《命令与征服：红色警戒3》的一款游戏模组，于2017年开始开发，目前仍处于积极维护的状态。'
     ],
+    introductionOpenVideoPage: '详细了解',
     shareTitle: '欢迎关注',
     shareSubtitle: '日冕官网尚在积极开发中，未来官网将逐步上线更多模块，请拭目以待'
   },
