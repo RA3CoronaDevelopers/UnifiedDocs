@@ -135,6 +135,15 @@
           'The core that packs the Corona Client and the Corona module itself.',
           'If you have problems downloading files online, you can try this core.'
         ]
+      },
+      {
+        id: 'tool-sigma-harmonizer',
+        title: 'Sigma Harmonizer',
+        description: [
+          'A tool used to assist players in shooting in-game videos.',
+          'It includes the functions of time stop, time acceleration, changing unit color, modifying environment parameters, controlling camera movement track and controlling shadow map.',
+          'This tool cannot be used in the Origin version.'
+        ]
       }
     ],
     downloadTips: {
