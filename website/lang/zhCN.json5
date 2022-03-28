@@ -116,17 +116,32 @@
     hrefButton: '查阅详情'
   },
   resource: {
-    launcherDownloadTitle: '日冕客户端',
-    launcherDownloadContent: [
-      '提供一站式的模组下载与加载服务。',
-      '游玩前，您需要先获取《命令与征服：红色警戒3》的游戏本体。请使用迅雷或可解析磁力链接的下载工具获取游戏。',
-      '更多疑难解答，请在日冕的官方讨论组获得更多信息。'
+    downloadItems: [
+      {
+        id: 'launcher-v3',
+        title: '日冕客户端',
+        description: [
+          '提供一站式的模组下载与加载服务。',
+          '游玩前，您需要先获取《命令与征服：红色警戒3》的游戏本体。请使用迅雷或可解析磁力链接的下载工具获取游戏。',
+          '更多疑难解答，请在日冕的官方讨论组获得更多信息。'
+        ]
+      },
+      {
+        id: 'packaged-game-raw',
+        title: '日冕客户端——量子打包形态',
+        description: [
+          '将日冕客户端与日冕模组本身打包在一起的核心。',
+          '如果您在在线下载文件时遇到问题，可以尝试使用此核心。'
+        ]
+      }
     ],
-    packageDownloadTitle: '日冕客户端——量子打包形态',
-    packageDownloadContent: [
-      '将日冕客户端与日冕模组本身打包在一起的核心。',
-      '如果您在在线下载文件时遇到问题，可以尝试使用此核心。'
-    ],
+    downloadTips: {
+      magnet: '通过BitTorrent（种子）下载',
+      http: '直链下载',
+      baidu: '从百度网盘下载',
+      github: '从Github下载'
+    },
+    downloadManifestFetchFailedMessage: '重试',
     alertToMobile: ['请在电脑打开本页面以下载游戏', '此游戏是一个PC游戏，无法在手机上游玩']
   },
   wiki: {

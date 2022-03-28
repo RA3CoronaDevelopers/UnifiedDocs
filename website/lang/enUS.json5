@@ -118,17 +118,32 @@
     hrefButton: 'View details'
   },
   resource: {
-    launcherDownloadTitle: 'Corona Client',
-    launcherDownloadContent: [
-      'Provide one-stop mod downloading and loading service.',
-      "Before playing, you need to obtain the vanilla game body of 'Command and Conquer: Red Alert 3'. Please use the download tool that can parse the magnetic link to get the game.",
-      'For more troubleshooting, please call the official discussion group of the Corona.'
+    downloadItems: [
+      {
+        id: 'launcher-v3',
+        title: 'Corona Client',
+        description: [
+          'Provide one-stop mod downloading and loading service.',
+          "Before playing, you need to obtain the vanilla game body of 'Command and Conquer: Red Alert 3'. Please use the download tool that can parse the magnetic link to get the game.",
+          'For more troubleshooting, please call the official discussion group of the Corona.'
+        ]
+      },
+      {
+        id: 'packaged-game-raw',
+        title: 'Corona Client: Quantum packing form',
+        description: [
+          'The core that packs the Corona Client and the Corona module itself.',
+          'If you have problems downloading files online, you can try this core.'
+        ]
+      }
     ],
-    packageDownloadTitle: 'Corona Client: Quantum packing form',
-    packageDownloadContent: [
-      'The core that packs the Corona Client and the Corona module itself.',
-      'If you have problems downloading files online, you can try this core.'
-    ],
+    downloadTips: {
+      magnet: 'Download via BitTorrent',
+      http: 'Direct download',
+      baidu: 'Download via Baidu Online Storage',
+      github: 'Download via Github'
+    },
+    downloadManifestFetchFailedMessage: 'Try again',
     alertToMobile: [
       'Please open this link in your PC device to download the game.',
       "It's a PC game, which cannot run in the mobile."
