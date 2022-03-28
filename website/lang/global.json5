@@ -26,7 +26,7 @@
           value: 'magnet:?xt=urn:btih:74b3e23c9953af2a85d13900a0f67f214c475c7f&dn=CoronaLauncher_Setup_3.3.8121.35304.exe&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Flauncher%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881'
         }
       ],
-      'packaged-game-raw': {}
+      'packaged-game-raw': []
     },
     feedbackLink: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill?channel=launcher'
   },

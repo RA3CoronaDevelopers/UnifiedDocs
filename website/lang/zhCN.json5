@@ -142,6 +142,7 @@
       github: '从Github下载'
     },
     downloadManifestFetchFailedMessage: '重试',
+    downloadItemNoResourceAlert: '很抱歉，目前暂时不能提供下载',
     alertToMobile: ['请在电脑打开本页面以下载游戏', '此游戏是一个PC游戏，无法在手机上游玩']
   },
   wiki: {

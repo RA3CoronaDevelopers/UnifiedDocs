@@ -144,6 +144,7 @@
       github: 'Download via Github'
     },
     downloadManifestFetchFailedMessage: 'Try again',
+    downloadItemNoResourceAlert: 'Unfortunately, downloads are not available at this time',
     alertToMobile: [
       'Please open this link in your PC device to download the game.',
       "It's a PC game, which cannot run in the mobile."
