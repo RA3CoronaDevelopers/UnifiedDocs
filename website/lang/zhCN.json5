@@ -18,7 +18,9 @@
     }
   },
   footer: {
-    disclaimer: ['本站与由本站发布的日冕 Mod 作品，均与美国艺电公司没有从属关系']
+    disclaimer: [
+      '本站与由本站发布的日冕 Mod 作品，均与美国艺电公司没有从属关系'
+    ]
   },
   overview: {
     topVideoSrc: 'https://www.bilibili.com/video/BV14t41137qU',
@@ -152,10 +154,48 @@
     },
     downloadManifestFetchFailedMessage: '重试',
     downloadItemNoResourceAlert: '很抱歉，目前暂时不能提供下载',
-    alertToMobile: ['请在电脑打开本页面以下载游戏', '此游戏是一个PC游戏，无法在手机上游玩']
+    alertToMobile: [
+      '请在电脑打开本页面以下载游戏',
+      '此游戏是一个PC游戏，无法在手机上游玩'
+    ]
   },
   wiki: {
-    title: '日冕资料库尚在准备中，敬请期待'
+    folders: [
+      {
+        type: 'article-novel',
+        root: ['article', 'novel'],
+        title: ['文章', '小说'],
+        component: 'article'
+      },
+      {
+        type: 'article-technology',
+        root: ['article', 'technology'],
+        title: ['文章', '技术文档'],
+        component: 'article'
+      },
+      {
+        type: 'gallery-pictures',
+        root: ['gallery', 'picture'],
+        title: ['艺术作品', '画廊'],
+        component: 'picture'
+      }
+    ],
+    staff: {
+      groups: {
+        concept: '策划组',
+        'art-design': '原画设计组',
+        'model-design': '模型设计组',
+        operation: '运营组',
+        translation: '国际化组',
+        'map-design': '地图设计组',
+        'music-design': '音乐创作组',
+        'dub-support': '配音组',
+        'sound-design': '音效设计组',
+        'story-design': '故事创作组',
+        'logic-design': '逻辑设计组',
+        'technology-support': '技术支持组'
+      }
+    }
   },
   feedback: {
     title: '常见问题解答',

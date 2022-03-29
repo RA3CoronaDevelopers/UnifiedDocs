@@ -160,7 +160,42 @@
     ]
   },
   wiki: {
-    title: 'The Corona database is still in preparation, please stay tuned.'
+    folders: [
+      {
+        type: 'article-novel',
+        root: ['article', 'novel'],
+        title: ['article', 'novel'],
+        component: 'article'
+      },
+      {
+        type: 'article-technology',
+        root: ['article', 'technology'],
+        title: ['article', 'technology document'],
+        component: 'article'
+      },
+      {
+        type: 'gallery-pictures',
+        root: ['gallery', 'picture'],
+        title: ['gallery', 'picture'],
+        component: 'picture'
+      }
+    ],
+    staff: {
+      groups: {
+        concept: 'Concept Department',
+        'art-design': 'Art Design Department',
+        'model-design': 'Model Desigin Department',
+        operation: 'Operation Department',
+        translation: 'Translation Department',
+        'map-design': 'Map Design Department',
+        'music-design': 'Music Design Department',
+        'dub-support': 'Dub Support Department',
+        'sound-design': 'Sound Design Department',
+        'story-design': 'Story Design Department',
+        'logic-design': 'Logic Design Department',
+        'technology-support': 'Technology Support Department'
+      }
+    }
   },
   feedback: {
     title: 'FAQ',
