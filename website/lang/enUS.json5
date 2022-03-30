@@ -163,21 +163,15 @@
     folders: [
       {
         type: 'article-novel',
-        root: ['article', 'novel'],
-        title: ['article', 'novel'],
-        component: 'article'
+        title: ['article', 'novel']
       },
       {
         type: 'article-technology',
-        root: ['article', 'technology'],
-        title: ['article', 'technology document'],
-        component: 'article'
+        title: ['article', 'technology document']
       },
       {
         type: 'gallery-pictures',
-        root: ['gallery', 'picture'],
-        title: ['gallery', 'picture'],
-        component: 'picture'
+        title: ['gallery', 'picture']
       }
     ],
     staff: {

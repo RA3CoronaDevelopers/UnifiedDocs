@@ -163,21 +163,15 @@
     folders: [
       {
         type: 'article-novel',
-        root: ['article', 'novel'],
-        title: ['文章', '小说'],
-        component: 'article'
+        title: ['文章', '小说']
       },
       {
         type: 'article-technology',
-        root: ['article', 'technology'],
-        title: ['文章', '技术文档'],
-        component: 'article'
+        title: ['文章', '技术文档']
       },
       {
         type: 'gallery-pictures',
-        root: ['gallery', 'picture'],
-        title: ['艺术作品', '画廊'],
-        component: 'picture'
+        title: ['艺术作品', '画廊']
       }
     ],
     staff: {

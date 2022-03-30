@@ -49,6 +49,22 @@
     },
     feedbackLink: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill?channel=launcher'
   },
+  wiki: {
+    folderPath: {
+      'article-novel': {
+        root: ['article', 'novel'],
+        component: 'article'
+      },
+      'article-technology': {
+        root: ['article', 'technology'],
+        component: 'article'
+      },
+      'gallery-pictures': {
+        root: ['gallery', 'picture'],
+        component: 'picture'
+      }
+    }
+  },
   recordInformation: [
     {
       text: '鄂公网安备42098402000167号',
