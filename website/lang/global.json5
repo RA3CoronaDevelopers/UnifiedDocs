@@ -52,7 +52,7 @@
   wiki: {
     folderPath: {
       'article-novel': {
-        root: ['article', 'novel'],
+        root: ['article', 'novels'],
         component: 'article'
       },
       'article-technology': {

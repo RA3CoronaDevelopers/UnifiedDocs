@@ -108,61 +108,61 @@
     }
   ],
   items: [
-    // Article -> Novels
+    // Article -> Novel
     {
       title: '神州起源',
       type: 'article-novel',
       author: ['心控', '阿尔法'],
-      file: '/article/novels/article/novels/神州起源.md'
+      file: '/article/novels/神州起源.md'
     },
     {
       title: '命运轮回（壹）',
       type: 'article-novel',
       author: ['满城', '宁海'],
-      file: '/article/novels/article/novels/命运轮回（壹）.md'
+      file: '/article/novels/命运轮回（壹）.md'
     },
     {
       title: '命运轮回（贰）',
       type: 'article-novel',
       author: ['满城', '宁海'],
-      file: '/article/novels/article/novels/命运轮回（贰）.md'
+      file: '/article/novels/命运轮回（贰）.md'
     },
     {
       title: '命运轮回（叁）',
       type: 'article-novel',
       author: ['满城', '阿尔法'],
-      file: '/article/novels/article/novels/命运轮回（叁）.md'
+      file: '/article/novels/命运轮回（叁）.md'
     },
     {
       title: '燕之楚歌',
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/article/novels/燕之楚歌.md'
+      file: '/article/novels/燕之楚歌.md'
     },
     {
       title: '燕之冀歌',
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/article/novels/燕之冀歌.md'
+      file: '/article/novels/燕之冀歌.md'
     },
     {
       title: '燕之离歌',
       type: 'article-novel',
       author: ['宁海', '平海', '满城'],
-      file: '/article/novels/article/novels/燕之离歌.md'
+      file: '/article/novels/燕之离歌.md'
     },
     {
       title: '燕之殇歌',
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/article/novels/燕之殇歌.md'
+      file: '/article/novels/燕之殇歌.md'
     },
     // Article -> Technology
     {
       title: '地图生成工具入门',
       type: 'article-technology',
       author: ['物wu'],
-      file: '/article/technology/article/technology/地图生成工具入门.md'
+      file: '/article/technology/地图生成工具入门.md'
     },
     // Gallery -> Picture
     {
