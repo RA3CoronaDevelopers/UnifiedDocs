@@ -159,6 +159,12 @@
     },
     // Article -> Technology
     {
+      title: '常见问题解答',
+      type: 'article-technology',
+      author: ['伊欧'],
+      file: '/article/technology/常见问题解答.md'
+    },
+    {
       title: '地图生成工具入门',
       type: 'article-technology',
       author: ['物wu'],
