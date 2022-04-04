@@ -160,20 +160,11 @@
     ]
   },
   wiki: {
-    folders: [
-      {
-        type: 'article-novel',
-        title: ['文章', '小说']
-      },
-      {
-        type: 'article-technology',
-        title: ['文章', '技术文档']
-      },
-      {
-        type: 'gallery-pictures',
-        title: ['艺术作品', '画廊']
-      }
-    ],
+    folders: {
+      'article-novel': ['文章', '小说'],
+      'article-technology': ['文章', '技术文档'],
+      'gallery-pictures': ['艺术作品', '画廊']
+    },
     staff: {
       groups: {
         concept: '策划组',

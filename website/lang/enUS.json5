@@ -160,20 +160,11 @@
     ]
   },
   wiki: {
-    folders: [
-      {
-        type: 'article-novel',
-        title: ['article', 'novel']
-      },
-      {
-        type: 'article-technology',
-        title: ['article', 'technology document']
-      },
-      {
-        type: 'gallery-pictures',
-        title: ['gallery', 'picture']
-      }
-    ],
+    folders: {
+      'article-novel': ['article', 'novel'],
+      'article-technology': ['article', 'technology document'],
+      'gallery-pictures': ['gallery', 'picture']
+    },
     staff: {
       groups: {
         concept: 'Concept Department',
