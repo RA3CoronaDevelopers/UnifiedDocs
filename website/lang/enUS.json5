@@ -194,7 +194,7 @@
       },
       {
         title: 'Problem feedback',
-        description: 'Here you can feed back various vulnerabilities related to the website, game launcher or game ontology, or give some reasonable suggestions.',
+        description: 'Here you can report various vulnerabilities related to the website, game launcher or game ontology, or give some reasonable suggestions.',
         hrefTitle: 'Fill feedback form',
         href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
       }
