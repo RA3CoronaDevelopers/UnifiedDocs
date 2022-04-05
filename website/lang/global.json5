@@ -47,7 +47,7 @@
         ]
       }
     },
-    feedbackLink: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill?channel=launcher'
+    feedbackLinks: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill?channel=launcher'
   },
   wiki: {
     folderPath: {

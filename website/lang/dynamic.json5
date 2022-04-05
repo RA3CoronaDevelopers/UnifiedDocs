@@ -105,588 +105,604 @@
       name: { 'zh-CN': '珍惜', 'en-US': 'IcaursWing' },
       links: [{ type: 'github', target: 'https://github.com/IcaursWing' }],
       group: ['technology-support']
+    },
+    {
+      name: { 'zh-CN': '微月' },
+      links: [{ type: 'bilibili', target: 'https://space.bilibili.com/50577' }],
+      group: ['operation']
     }
   ],
   items: [
     // Article -> Novel
     {
-      title: '神州起源',
+      title: { 'zh-CN': '神州起源' },
       type: 'article-novel',
       author: ['心控', '阿尔法'],
-      file: '/article/novels/神州起源.md'
+      file: { 'zh-CN': '/article/novels/神州起源.md' }
     },
     {
-      title: '命运轮回（壹）',
+      title: { 'zh-CN': '命运轮回（壹）' },
       type: 'article-novel',
       author: ['满城', '宁海'],
-      file: '/article/novels/命运轮回（壹）.md'
+      file: { 'zh-CN': '/article/novels/命运轮回（壹）.md' }
     },
     {
-      title: '命运轮回（贰）',
+      title: { 'zh-CN': '命运轮回（贰）' },
       type: 'article-novel',
       author: ['满城', '宁海'],
-      file: '/article/novels/命运轮回（贰）.md'
+      file: { 'zh-CN': '/article/novels/命运轮回（贰）.md' }
     },
     {
-      title: '命运轮回（叁）',
+      title: { 'zh-CN': '命运轮回（叁）' },
       type: 'article-novel',
       author: ['满城', '阿尔法'],
-      file: '/article/novels/命运轮回（叁）.md'
+      file: { 'zh-CN': '/article/novels/命运轮回（叁）.md' }
     },
     {
-      title: '燕之楚歌',
+      title: { 'zh-CN': '燕之楚歌' },
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/燕之楚歌.md'
+      file: { 'zh-CN': '/article/novels/燕之楚歌.md' }
     },
     {
-      title: '燕之冀歌',
+      title: { 'zh-CN': '燕之冀歌' },
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/燕之冀歌.md'
+      file: { 'zh-CN': '/article/novels/燕之冀歌.md' }
     },
     {
-      title: '燕之离歌',
+      title: { 'zh-CN': '燕之离歌' },
       type: 'article-novel',
       author: ['宁海', '平海', '满城'],
-      file: '/article/novels/燕之离歌.md'
+      file: { 'zh-CN': '/article/novels/燕之离歌.md' }
     },
     {
-      title: '燕之殇歌',
+      title: { 'zh-CN': '燕之殇歌' },
       type: 'article-novel',
       author: ['宁海', '塞班', '满城'],
-      file: '/article/novels/燕之殇歌.md'
+      file: { 'zh-CN': '/article/novels/燕之殇歌.md' }
     },
     // Article -> Technology
     {
-      title: '常见问题解答',
+      title: { 'zh-CN': '常见问题解答', 'en-US': 'FAQ' },
       type: 'article-technology',
-      author: ['伊欧'],
-      file: '/article/technology/常见问题解答.md'
+      author: ['伊欧', '月'],
+      file: {
+        'zh-CN': '/article/technology/常见问题解答.md',
+        'en-US': '/article/technology/FAQ.md'
+      }
     },
     {
-      title: '地图生成工具入门',
+      title: { 'zh-CN': '地图生成工具入门' },
       type: 'article-technology',
       author: ['物wu'],
-      file: '/article/technology/地图生成工具入门.md'
+      file: { 'zh-CN': '/article/technology/地图生成工具入门.md' }
     },
     // Gallery -> Picture
     {
-      title: '解算主楼原稿',
+      title: { 'zh-CN': '解算主楼原稿' },
       type: 'gallery-pictures',
       author: ['羿风'],
-      file: '/gallery/pictures/design/高科原稿.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/高科原稿.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '旧式麒麟破阵战车手稿',
+      title: { 'zh-CN': '旧式麒麟破阵战车手稿' },
       type: 'gallery-pictures',
       author: ['羿风'],
-      file: '/gallery/pictures/design/旧式麒麟手稿.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/旧式麒麟手稿.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '旧式玄武级攻击潜艇手稿',
+      title: { 'zh-CN': '旧式玄武级攻击潜艇手稿' },
       type: 'gallery-pictures',
       author: ['羿风'],
-      file: '/gallery/pictures/design/旧式玄武手稿.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/旧式玄武手稿.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '祝融攻坚战车手稿',
+      title: { 'zh-CN': '祝融攻坚战车手稿' },
       type: 'gallery-pictures',
       author: ['羿风'],
-      file: '/gallery/pictures/design/祝融手稿.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/祝融手稿.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '将军战列舰',
+      title: { 'zh-CN': '将军战列舰' },
       type: 'gallery-pictures',
       author: ['白鲲'],
-      file: '/gallery/pictures/design/大和.png',
+      file: { 'zh-CN': '/gallery/pictures/design/大和.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '浴日神坛',
+      title: { 'zh-CN': '浴日神坛' },
       type: 'gallery-pictures',
       author: ['白鲲'],
-      file: '/gallery/pictures/design/浴日神坛.png',
+      file: { 'zh-CN': '/gallery/pictures/design/浴日神坛.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '鲲鹏运输机',
+      title: { 'zh-CN': '鲲鹏运输机' },
       type: 'gallery-pictures',
       author: ['白鲲'],
-      file: '/gallery/pictures/design/运输机.png',
+      file: { 'zh-CN': '/gallery/pictures/design/运输机.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '龙炎军 艺术稿',
+      title: { 'zh-CN': '龙炎军 艺术稿' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/龙炎军.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/龙炎军.jpg' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '华灯初上曲绘',
+      title: { 'zh-CN': '华灯初上曲绘' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV2020新年.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV2020新年.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '茉莉花曲绘',
+      title: { 'zh-CN': '茉莉花曲绘' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV茉莉花.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV茉莉花.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '茉莉花2.0曲绘 1',
+      title: { 'zh-CN': '茉莉花2.0曲绘 1' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV茉莉花2-1.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV茉莉花2-1.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '茉莉花2.0曲绘 2',
+      title: { 'zh-CN': '茉莉花2.0曲绘 2' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV茉莉花2-2.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV茉莉花2-2.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '尚武精神曲绘',
+      title: { 'zh-CN': '尚武精神曲绘' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV尚武精神.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV尚武精神.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '神州起源宣传片封面',
+      title: { 'zh-CN': '神州起源宣传片封面' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV神州起源宣传图.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV神州起源宣传图.jpg' },
       tags: ['神州', 'PV']
     },
     {
-      title: '腾起于风曲绘',
+      title: { 'zh-CN': '腾起于风曲绘' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/archive/PV腾飞.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/PV腾飞.jpg' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '神州士兵礼服设定',
+      title: { 'zh-CN': '神州士兵礼服设定' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/design/神州士兵礼服设定.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/神州士兵礼服设定.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '早期神州步兵设定',
+      title: { 'zh-CN': '早期神州步兵设定' },
       type: 'gallery-pictures',
       author: ['满城'],
-      file: '/gallery/pictures/design/早期基础步兵设定.png',
+      file: { 'zh-CN': '/gallery/pictures/design/早期基础步兵设定.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '2021拜年纪壁纸',
+      title: { 'zh-CN': '2021拜年纪壁纸' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/拜年纪壁纸.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/拜年纪壁纸.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '惊涛落日曲绘 1.0',
+      title: { 'zh-CN': '惊涛落日曲绘 1.0' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/惊涛落日.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/惊涛落日.png' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '惊涛落日曲绘 2.0',
+      title: { 'zh-CN': '惊涛落日曲绘 2.0' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/惊涛落日2.0.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/惊涛落日2.0.png' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '惊涛落日曲绘 结尾分镜',
+      title: { 'zh-CN': '惊涛落日曲绘 结尾分镜' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/惊涛落日曲绘分镜：结尾.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/惊涛落日曲绘分镜：结尾.png' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '凤凰战机',
+      title: { 'zh-CN': '凤凰战机' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 凤凰战机.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 凤凰战机.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '加特林菩萨——迅雷天罡',
+      title: { 'zh-CN': '加特林菩萨——迅雷天罡' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 加特林菩萨.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 加特林菩萨.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '龙炎军',
+      title: { 'zh-CN': '龙炎军' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 龙炎军.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 龙炎军.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '龙炎军半身桌面背景',
+      title: { 'zh-CN': '龙炎军半身桌面背景' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 龙炎军半身.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 龙炎军半身.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '平原之舞 1.0',
+      title: { 'zh-CN': '平原之舞 1.0' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 平原之舞 1.0.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 平原之舞 1.0.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '平原之舞 2.0',
+      title: { 'zh-CN': '平原之舞 2.0' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 平原之舞 2.0.jpg',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 平原之舞 2.0.jpg' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '平原之舞 3.0',
+      title: { 'zh-CN': '平原之舞 3.0' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 平原之舞 3.0.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 平原之舞 3.0.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '麒麟坦克',
+      title: { 'zh-CN': '麒麟坦克' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 麒麟坦克.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 麒麟坦克.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '天眼哨机',
+      title: { 'zh-CN': '天眼哨机' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 天眼哨机.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 天眼哨机.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '玄冥战列巡洋舰',
+      title: { 'zh-CN': '玄冥战列巡洋舰' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/神州 玄冥战巡.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/神州 玄冥战巡.png' },
       tags: ['神州', '壁纸']
     },
     {
-      title: '铁锤机甲',
+      title: { 'zh-CN': '铁锤机甲' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/苏子 铁锤机甲.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/苏子 铁锤机甲.png' },
       tags: ['苏联', '壁纸']
     },
     {
-      title: '天军行阵乐曲绘',
+      title: { 'zh-CN': '天军行阵乐曲绘' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/天军行阵PV封面.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/天军行阵PV封面.png' },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '天军行阵乐曲绘： 定海神针',
+      title: { 'zh-CN': '天军行阵乐曲绘： 定海神针' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/天军行阵曲绘分镜：定海神针.png',
+      file: {
+        'zh-CN': '/gallery/pictures/archive/天军行阵曲绘分镜：定海神针.png'
+      },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '天军行阵乐曲绘： 破军金甲',
+      title: { 'zh-CN': '天军行阵乐曲绘： 破军金甲' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/天军行阵曲绘分镜：破军金甲.png',
+      file: {
+        'zh-CN': '/gallery/pictures/archive/天军行阵曲绘分镜：破军金甲.png'
+      },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '天军行阵乐曲绘： 川流九寨',
+      title: { 'zh-CN': '天军行阵乐曲绘： 川流九寨' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/天军行阵曲绘分镜：川流九寨.png',
+      file: {
+        'zh-CN': '/gallery/pictures/archive/天军行阵曲绘分镜：川流九寨.png'
+      },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '天军行阵乐曲绘： 轰鸣交响',
+      title: { 'zh-CN': '天军行阵乐曲绘： 轰鸣交响' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/archive/天军行阵曲绘分镜：轰鸣交响.png',
+      file: {
+        'zh-CN': '/gallery/pictures/archive/天军行阵曲绘分镜：轰鸣交响.png'
+      },
       tags: ['神州', 'PV', '神州电音企划']
     },
     {
-      title: '浑天塔',
+      title: { 'zh-CN': '浑天塔' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/浑天塔原稿.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/浑天塔原稿.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '盟军巡洋舰改造方案',
+      title: { 'zh-CN': '盟军巡洋舰改造方案' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/盟巡改造方案.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/盟巡改造方案.jpg' },
       tags: ['盟军', '单位设计']
     },
     {
-      title: '计蒙驱逐舰',
+      title: { 'zh-CN': '计蒙驱逐舰' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 计蒙.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 计蒙.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '技能UI',
+      title: { 'zh-CN': '技能UI' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 技能UI.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 技能UI.jpg' },
       tags: ['神州', '游戏性设计']
     },
     {
-      title: '锦衣卫',
+      title: { 'zh-CN': '锦衣卫' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 锦衣卫.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 锦衣卫.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '岚影刺 设计2',
+      title: { 'zh-CN': '岚影刺 设计2' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 岚影刺 设计图2.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 岚影刺 设计图2.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '岚影刺 设计终稿',
+      title: { 'zh-CN': '岚影刺 设计终稿' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 岚影刺 终稿.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 岚影刺 终稿.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '岚影刺 设计',
+      title: { 'zh-CN': '岚影刺 设计' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 岚影刺 设计图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 岚影刺 设计图.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '日晷阵列',
+      title: { 'zh-CN': '日晷阵列' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 日晷设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 日晷设计.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '乌蓬猎船 概念',
+      title: { 'zh-CN': '乌蓬猎船 概念' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 乌蓬概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 乌蓬概念图.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '乌蓬猎船 设计',
+      title: { 'zh-CN': '乌蓬猎船 设计' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 乌蓬设计图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 乌蓬设计图.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '武悼天王 概念',
+      title: { 'zh-CN': '武悼天王 概念' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 新武悼天王概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 新武悼天王概念图.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '武悼天王 设计',
+      title: { 'zh-CN': '武悼天王 设计' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 新武悼天王设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 新武悼天王设计.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '冶矿炉',
+      title: { 'zh-CN': '冶矿炉' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 冶矿炉设定.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 冶矿炉设定.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '神州英雄单位',
+      title: { 'zh-CN': '神州英雄单位' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 英雄设定.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 英雄设定.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '神州英雄单位早期设计',
+      title: { 'zh-CN': '神州英雄单位早期设计' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 早期英雄设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 早期英雄设计.png' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '东方子弦 拆分立绘',
+      title: { 'zh-CN': '东方子弦 拆分立绘' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 指挥官东方子弦拆分.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 指挥官东方子弦拆分.png' },
       tags: ['神州', '游戏性设计']
     },
     {
-      title: '东方子弦 完整立绘',
+      title: { 'zh-CN': '东方子弦 完整立绘' },
       type: 'gallery-pictures',
       author: ['林凯诺夫'],
-      file: '/gallery/pictures/design/神州 指挥官东方子弦立绘.png',
+      file: { 'zh-CN': '/gallery/pictures/design/神州 指挥官东方子弦立绘.png' },
       tags: ['神州', '游戏性设计']
     },
     {
-      title: '升阳帝国 Technology Level 4 概念单位',
+      title: { 'zh-CN': '升阳帝国 Technology Level 4 概念单位' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国T4概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国T4概念图.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国航母 概念',
+      title: { 'zh-CN': '升阳帝国航母 概念' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国航母概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国航母概念图.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国航母 设计',
+      title: { 'zh-CN': '升阳帝国航母 设计' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国航母设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国航母设计.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国舰船炮台',
+      title: { 'zh-CN': '升阳帝国舰船炮台' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国舰船炮台设计.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国舰船炮台设计.jpg' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国舰船鱼雷炮台',
+      title: { 'zh-CN': '升阳帝国舰船鱼雷炮台' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国舰船鱼雷炮台设计.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国舰船鱼雷炮台设计.jpg' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国舰载机',
+      title: { 'zh-CN': '升阳帝国舰载机' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国舰载机概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国舰载机概念图.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国钢铁浪人',
+      title: { 'zh-CN': '升阳帝国钢铁浪人' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国浪人重置概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国浪人重置概念图.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国驱逐舰 初稿设计',
+      title: { 'zh-CN': '升阳帝国驱逐舰 初稿设计' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国驱逐设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国驱逐设计.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国驱逐舰 初稿概念',
+      title: { 'zh-CN': '升阳帝国驱逐舰 初稿概念' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国太刀概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国太刀概念图.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国太刀驱逐舰 设计',
+      title: { 'zh-CN': '升阳帝国太刀驱逐舰 设计' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国太刀设计.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国太刀设计.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '升阳帝国太刀驱逐舰 设计2',
+      title: { 'zh-CN': '升阳帝国太刀驱逐舰 设计2' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/帝国太刀设计2.png',
+      file: { 'zh-CN': '/gallery/pictures/design/帝国太刀设计2.png' },
       tags: ['升阳帝国', '单位设计']
     },
     {
-      title: '盟军截击机',
+      title: { 'zh-CN': '盟军截击机' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/盟军截击机概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/盟军截击机概念图.png' },
       tags: ['盟军', '单位设计']
     },
     {
-      title: '盟军波塞冬巡洋舰 概念',
+      title: { 'zh-CN': '盟军波塞冬巡洋舰 概念' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/盟军巡洋概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/盟军巡洋概念图.png' },
       tags: ['盟军', '单位设计']
     },
     {
-      title: '盟军波塞冬巡洋舰 设计',
+      title: { 'zh-CN': '盟军波塞冬巡洋舰 设计' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/盟军巡洋设计.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/盟军巡洋设计.jpg' },
       tags: ['盟军', '单位设计']
     },
     {
-      title: '探矿车',
+      title: { 'zh-CN': '探矿车' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/神州矿车设计.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/神州矿车设计.jpg' },
       tags: ['神州', '单位设计']
     },
     {
-      title: '联盟重型坦克',
+      title: { 'zh-CN': '联盟重型坦克' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/苏联联盟概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/苏联联盟概念图.png' },
       tags: ['苏联', '单位设计']
     },
     {
-      title: '无畏级武库舰',
+      title: { 'zh-CN': '无畏级武库舰' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/苏联炮舰设计.jpg',
+      file: { 'zh-CN': '/gallery/pictures/design/苏联炮舰设计.jpg' },
       tags: ['苏联', '单位设计']
     },
     {
-      title: '犀牛坦克',
+      title: { 'zh-CN': '犀牛坦克' },
       type: 'gallery-pictures',
       author: ['青空'],
-      file: '/gallery/pictures/design/苏联犀牛概念图.png',
+      file: { 'zh-CN': '/gallery/pictures/design/苏联犀牛概念图.png' },
       tags: ['苏联', '单位设计']
     },
     {
-      title: '龙炎军 细节',
+      title: { 'zh-CN': '龙炎军 细节' },
       type: 'gallery-pictures',
       author: ['Nircs'],
-      file: '/gallery/pictures/archive/龙炎军细化.png',
+      file: { 'zh-CN': '/gallery/pictures/archive/龙炎军细化.png' },
       tags: ['神州', '壁纸']
     }
   ]

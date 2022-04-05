@@ -51,72 +51,6 @@
   },
   timeline: {
     tempTitle: 'This page is still redesigning. Wait for a while please.'
-    // content: [
-    //   {
-    //     time: '2019-12-29',
-    //     title: "Developer's Diary - Reworks on Air Combat Mechanics",
-    //     headImage: '/tl2019122901head.jpg',
-    //     link: 'https://www.moddb.com/mods/corona/news/developers-diary-reworks-on-air-combat-mechanics',
-    //     introduction: 'Rework of air combat system. Emphasising the counter play relationship between units and underscoring the importance of air units.'
-    //   },
-    //   {
-    //     time: '2019-12-08',
-    //     title: "Developer's Diary - T4 Techs and other adjustments",
-    //     headImage: '/tl2019120801head.jpg',
-    //     link: 'https://www.moddb.com/mods/corona/news/developers-diary-t4-techs-and-other-adjustments',
-    //     introduction: 'Addition of Tier 4 technology.'
-    //   },
-    //   {
-    //     time: '2020-05-30',
-    //     title: 'Developers Talks I',
-    //     headImage: '/tl2020053001head.jpg',
-    //     link: 'https://youtu.be/GUWZTvgClsM',
-    //     introduction: 'Devs Talks I demonstrated the Celestial ultimate weapon Altar of Solar Scorch. After being fully charged, it unleashes a Corona Storm at designated location comparable to the solar fusion.'
-    //   },
-    //   {
-    //     time: '2020-07-31',
-    //     title: 'Developers Talks II',
-    //     headImage: '/tl2020073101head.jpg',
-    //     link: 'https://youtu.be/i6XP5EXMeoI',
-    //     introduction: 'Devs Talks II showcased the adjustment to Celestial Navy and detailed the concept of T3 and T4 naval units from each faction.'
-    //   },
-    //   {
-    //     time: '2020-09-03',
-    //     title: 'Developers Talks III',
-    //     headImage: '/tl2020090301head.jpg',
-    //     link: 'https://youtu.be/-KsK-e8SKVI',
-    //     introduction: 'Devs Talks III revealed the in-game UI of Celestial faction and talked in detail about Celestial units Armybreaker Mecha and Military Engineer.'
-    //   },
-    //   {
-    //     time: '2020-10-07',
-    //     title: 'Developers Talks IV',
-    //     headImage: '/tl2020100701head.jpg',
-    //     link: 'https://youtu.be/efLEj2omyLI',
-    //     introduction: 'Devs Talks IV introduced Soviet main battle tank Rhino Tank, fire support vehicle Sledgehammer Assault Gun and Celestial unit Swiftsure Thunderer.'
-    //   },
-    //   {
-    //     time: '2020-12-30',
-    //     title: 'Developers Talks V',
-    //     headImage: '/tl2020123001head.jpg',
-    //     link: 'https://youtu.be/CgDJ7sV7zLY',
-    //     introduction: 'Devs Talks V focused on new Celestial buildings for custom maps and campaigns, and special units for the same purpose. It also discussed in depth on Xuanwu Attack Submarine and her special ability.'
-    //   },
-    //   {
-    //     time: '2021-08-12',
-    //     title: 'Developers Talks VI A',
-    //     headImage: '/tl2021081201head.jpg',
-    //     link: 'https://youtu.be/9cXteXJpUEE',
-    //     introduction: 'Devs Talks VI A showed the optimised Skybox, shadow and ocean diffuse reflection. Celestial infiltrator unit Misty Assassin was also disclosed.'
-    //   },
-    //   {
-    //     time: '2021-10-10',
-    //     title: 'Developers Talks VI B',
-    //     headImage: '/tl2021101001head.jpg',
-    //     link: 'https://www.bilibili.com/video/BV1J34y1S7EB/',
-    //     introduction: 'Devs Talks VI B countinud on the topic of visual optimisation, this time on PBR technology. The King Oni model was completely reworked. Lastly, it explained some weapon mechaincs changes.'
-    //   }
-    // ],
-    // hrefButton: 'View details'
   },
   resource: {
     downloadItems: [
@@ -190,7 +124,7 @@
         title: 'FAQ',
         description: 'Here you can read the most frequently asked questions.',
         hrefTitle: 'Read article',
-        href: '/wiki/article/technology/966dc24d9e8a001ebd9b0809be4685b6f485148a'
+        href: '/wiki/article/technology/12560dbaae68a4cb4df421a462c70eb894ef24bd'
       },
       {
         title: 'Problem feedback',
@@ -199,12 +133,6 @@
         href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
       }
     ]
-    // linkToQuestionnaireWarningTitle: 'Feedback instructions',
-    // linkToQuestionnaireWarningContent: [
-    //   'Corona Mod has not started the adjustment and design of campaign content yet. At present, the focus is still on the encounter game mode. Please do not submit the problems caused by using Corona Mod to fight the original campaign, or the bugs caused by self-made maps and modifiers.'
-    // ],
-    // linkToQuestionnaireAccept: 'I already know, continue to feed back',
-    // linkToQuestionnaire: 'Feedback Problem'
   },
   oops: {
     title: 'This area has been contaminated by Tiberium.'
