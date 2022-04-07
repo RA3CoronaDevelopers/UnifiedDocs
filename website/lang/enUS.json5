@@ -123,14 +123,26 @@
       {
         title: 'FAQ',
         description: 'Here you can read the most frequently asked questions.',
-        hrefTitle: 'Read article',
-        href: '/wiki/article/technology/12560dbaae68a4cb4df421a462c70eb894ef24bd'
+        hrefs: [
+          {
+            title: 'FAQ',
+            href: '/wiki/article/technology/12560dbaae68a4cb4df421a462c70eb894ef24bd'
+          },
+          {
+            title: 'Installation Problems(Simplified Chinese only)',
+            href: 'https://docs.qq.com/doc/DQmRwRVNLQllJRlF0'
+          }
+        ]
       },
       {
         title: 'Problem feedback',
         description: 'Here you can report various vulnerabilities related to the website, game launcher or game ontology, or give some reasonable suggestions.',
-        hrefTitle: 'Fill feedback form',
-        href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
+        hrefs: [
+          {
+            title: 'Fill feedback form',
+            href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
+          }
+        ]
       }
     ]
   },

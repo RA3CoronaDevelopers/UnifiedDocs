@@ -123,14 +123,26 @@
       {
         title: '常见问题解答',
         description: '在这里，您可以翻阅大家最常问的一些问题。',
-        hrefTitle: '翻阅文章',
-        href: '/wiki/article/technology/6dd485c5c0955b5065983426510607e1cc9e56b4'
+        hrefs: [
+          {
+            title: '常见问题解答',
+            href: '/wiki/article/technology/6dd485c5c0955b5065983426510607e1cc9e56b4'
+          },
+          {
+            title: '游戏安装问题解答',
+            href: 'https://docs.qq.com/doc/DQmRwRVNLQllJRlF0'
+          }
+        ]
       },
       {
         title: '问题反馈',
         description: '在这里，您可以反馈有关官网、游戏启动器或游戏本体的各种漏洞，或提出合理的建议。',
-        hrefTitle: '填写反馈表格',
-        href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
+        hrefs: [
+          {
+            title: '填写反馈表格',
+            href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
+          }
+        ]
       }
     ]
   },
