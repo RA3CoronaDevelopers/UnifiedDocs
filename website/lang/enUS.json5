@@ -128,8 +128,8 @@
   },
   feedback: {
     title: 'Greeting, commander. How can I help you?',
-    items: [
-      {
+    items: {
+      faq: {
         title: 'FAQ',
         description: 'Here you can read the most frequently asked questions.',
         hrefs: [
@@ -143,7 +143,7 @@
           }
         ]
       },
-      {
+      feedback: {
         title: 'Problem feedback',
         description: 'Here you can report various vulnerabilities related to the website, game launcher or game ontology, or give some reasonable suggestions.',
         hrefs: [
@@ -151,9 +151,16 @@
             title: 'Fill feedback form',
             href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
           }
-        ]
+        ],
+        tips: {
+          title: 'Feedback instructions',
+          content: [
+            'Corona Mod has not started the adjustment and design of campaign content yet. At present, the focus is still on the encounter game mode. Please do not submit the problems caused by using Corona Mod to fight the original campaign, or the bugs caused by self-made maps and modifiers.'
+          ],
+          okLabel: 'I already know, continue to feed back'
+        }
       }
-    ]
+    }
   },
   oops: {
     title: 'This area has been contaminated by Tiberium.'

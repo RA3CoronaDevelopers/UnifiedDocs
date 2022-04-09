@@ -128,8 +128,8 @@
   },
   feedback: {
     title: '贵安，指挥官。请问您需要什么帮助？',
-    items: [
-      {
+    items: {
+      faq: {
         title: '常见问题解答',
         description: '在这里，您可以翻阅大家最常问的一些问题。',
         hrefs: [
@@ -143,7 +143,7 @@
           }
         ]
       },
-      {
+      feedback: {
         title: '问题反馈',
         description: '在这里，您可以反馈有关官网、游戏启动器或游戏本体的各种漏洞，或提出合理的建议。',
         hrefs: [
@@ -151,9 +151,17 @@
             title: '填写反馈表格',
             href: 'https://shimo.im/forms/3DWpxPwxh3tRvghr/fill'
           }
-        ]
+        ],
+        tips: {
+          title: '反馈须知',
+          content: [
+            '日冕MOD暂未开始战役内容的调整与设计，目前的重心仍然在遭遇战游戏模式上。',
+            '因使用日冕Mod打原版战役而产生的问题，或因自制地图、使用修改器而产生的BUG请勿提交。'
+          ],
+          okLabel: '我已知晓，继续反馈'
+        }
       }
-    ]
+    }
   },
   oops: {
     title: '该区域已被泰伯利亚污染'
