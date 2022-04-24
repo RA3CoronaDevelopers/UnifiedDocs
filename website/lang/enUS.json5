@@ -22,6 +22,10 @@
       'This site and Corona Mod works published by this site are not affiliated with Electronic Arts'
     ]
   },
+  snackBarAlerts: {
+    legacyBrowserWarning: 'Your browser is outdated, please use the latest version of Chrome, Edge or Firefox.',
+    mobileWarning: 'Please use desktop device to visit this site.',
+  },
   overview: {
     topVideoSrc: 'https://www.youtube.com/watch?v=Wq7l2Zd-hwY',
     topVideoFrameSrc: 'https://www.youtube.com/embed/Wq7l2Zd-hwY',
