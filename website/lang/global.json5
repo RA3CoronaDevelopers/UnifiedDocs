@@ -21,16 +21,16 @@
   links: {
     downloadItems: {
       'launcher-v3': {
-        version: '3.4.8188.42711',
+        version: '3.5.8240.25318',
         links: [
           {
             type: 'magnet',
-            value: 'magnet:?xt=urn:btih:e607e86a260218212f8d125aab19bcd4159bbb4b&dn=CoronaLauncher_Setup_3.4.8188.42711.exe&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Flauncher%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881'
+            value: 'magnet:?xt=urn:btih:cd60215bc3021a25e0eecc38b5e3809eff2eedd7&dn=CoronaLauncher_Setup_3.5.8240.25318.exe&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Flauncher%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881'
           }
         ]
       },
       'packaged-game-raw': {
-        version: '3.182',
+        version: '3.184',
         links: []
       },
       'tool-sigma-harmonizer': {
