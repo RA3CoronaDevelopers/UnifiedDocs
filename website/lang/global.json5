@@ -25,7 +25,7 @@
         links: [
           {
             type: 'http',
-            value: 'https://cf.file.rmrts.com/srv/cor/launcher/CoronaLauncher_Setup_3.7.8420.37088.exe',
+            value: 'https://ax9advmduxh0.compat.objectstorage.us-phoenix-1.oraclecloud.com/US/%E4%B8%B4%E6%97%B6/CoronaLauncher_Setup_3.7.8420.37088.exe',
           },
           {
             type: 'magnet',
